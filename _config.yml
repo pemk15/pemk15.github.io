@@ -53,7 +53,9 @@ roles:
 #Education is required
 education:
  - level: Bacharelado
-   date: 2015
+   start: 2015
+   end: 2020
+   #date: 2015
    subject: Ciência da Computação
    school: Universidade Federal do Paraná
 
