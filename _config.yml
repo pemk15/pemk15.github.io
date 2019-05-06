@@ -52,8 +52,9 @@ roles:
 
 #Education is required
 education:
- - level: Bacharel em Ciência da Computação
-   date: ongoing
+ - level: Ciência da Computação
+   start: 2015
+   end: Ongoing
    school: Universidade Federal do Paraná
 
 #This section is optional (as is the image link below)
