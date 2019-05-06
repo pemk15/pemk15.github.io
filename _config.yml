@@ -58,6 +58,9 @@ education:
    #date: 2015
    subject: Ciência da Computação
    school: Universidade Federal do Paraná
+ - level: Ensino Médio
+   date: 2015
+   subject: Técnico integrado em Administração
 
 #This section is optional (as is the image link below)
 #coursera:
