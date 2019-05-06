@@ -53,8 +53,7 @@ roles:
 #Education is required
 education:
  - level: Ciência da Computação
-   start: 2015
-   end: 2020
+   date: 2015
    school: Universidade Federal do Paraná
 
 #This section is optional (as is the image link below)
